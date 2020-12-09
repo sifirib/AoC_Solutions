@@ -52,8 +52,3 @@ sum = 0
 for group in groups_seperated:
 	sum += control_answers(group)
 print(sum)
-
-
-
-
-
