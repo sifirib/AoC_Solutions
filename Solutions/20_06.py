@@ -31,11 +31,6 @@ for group in groups:
 #				answers.append(letter)
 #	return len(answers)
 
-#sum = 0
-#for group in groups_seperated:
-#	sum += control_answers(group)
-#print(sum)
-
 
 #part two
 def control_answers(group):
