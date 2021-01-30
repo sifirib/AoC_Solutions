@@ -34,3 +34,5 @@ invalid_num = solve_part1()
 print("part 1 answer is: ", invalid_num)
 the_weakness = solve_part2()
 print("part 2 answer is: ", the_weakness)
+
+
